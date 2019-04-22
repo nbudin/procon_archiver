@@ -1,7 +1,9 @@
 GEM
+  remote: https://rubygems.org/
   specs:
     mysql2 (0.5.2)
     sequel (5.19.0)
+    thor (0.20.3)
 
 PLATFORMS
   ruby
@@ -9,6 +11,7 @@ PLATFORMS
 DEPENDENCIES
   mysql2
   sequel
+  thor
 
 RUBY VERSION
    ruby 2.5.3p105
