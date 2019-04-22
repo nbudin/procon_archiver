@@ -1,0 +1,17 @@
+GEM
+  specs:
+    mysql2 (0.5.2)
+    sequel (5.19.0)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  mysql2
+  sequel
+
+RUBY VERSION
+   ruby 2.5.3p105
+
+BUNDLED WITH
+   2.0.1
